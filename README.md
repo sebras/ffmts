@@ -8,3 +8,4 @@ Thank you!
 
 | Release | Release date | Links |
 | --- | --- | --- |
+| [1.00](https://github.com/sebras/ffmts/tree/release-1.00/) | 05/28/95 | [file formats](https://raw.githubusercontent.com/sebras/ffmts/release-1.00/FILEFMTS.LST) |
